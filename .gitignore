@@ -5,5 +5,3 @@ dist
 .idea
 .vscode
 *.log
-.cursor
-.env
